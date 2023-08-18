@@ -1,5 +1,6 @@
 ### <div align="center">Jairo Nonato, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
+
 - 🌱 I’m currently learning Kotlin and Android  
   
 
@@ -91,9 +92,14 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jaijunior&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
