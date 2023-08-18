@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jairo Nonato Júnior</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate back-end developer from Brazil</h3>
 
 - 🌱 I’m currently learning **CodeIgniter4, Vue.JS**
 
